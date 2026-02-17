@@ -1,0 +1,14 @@
+{
+    "conversation_id": "154e2d80-9d29-44e0-8761-4ea99f1738b6",
+    "language": "en",
+    "created_at": "2026-02-17T21:53:46.420088",
+    "speakers": {
+        "agent": "Section 0 of Esaubs Fables, a new revised version by Esaubs. Preface, the following, are some of Esaubs' best-loved fables. A certain man had the good fortune to possess a goose that laid him a golden egg every day, he killed a goose and cutting her open, found her just what any other goose would be. The Town Mousse and the Country Mousse. of his country fair.",
+        "customer": "This labor box recording is in the public domain. The Goose with the Golden Eggs. but dissatisfied with so slow an income and thinking to seize the whole treasure at once, Much once more and loses all. A country mouse invited a town mouse and intimate friend to pay him a visit and portake As they were on the bare-plowed lands, eating their wheat stalks."
+    },
+    "summary": {
+        "text": "**Summary**\n\n**Customer Issue:** The customer is inquiring about a specific labor box recording, \"The Goose with the Golden Eggs,\" which they believe is in the public domain.\n\n**Agent Response Quality:** The agent's response is subpar. They appear to be reading from a pre-existing text, but it is not relevant to the customer's inquiry. The agent fails to acknowledge the customer's question or provide any useful information.\n\n**Resolution Status:** The issue remains unresolved. The agent has not addressed the customer's concern or provided any assistance. The interaction ends with the agent providing a different, unrelated fable.",
+        "provider_used": "groq",
+        "word_count": 95
+    }
+}
